@@ -59,9 +59,11 @@ React Native app to digitize daily campus needs like mess menu, notices, and stu
 
 ---
 
-### 🧠 LeetCode Progress
 
-[![LeetCode user CodeReb00t](https://leetcard.jacoblin.cool/CodeReb00t?theme=dark&font=baloo)](https://leetcode.com/CodeReb00t)
+### 📊 LeetCode Contest Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/CodeReb00t?theme=dark&ext=contest)](https://leetcode.com/CodeReb00t)
+
 
 ---
 
