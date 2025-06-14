@@ -37,8 +37,8 @@ React Native app to digitize daily campus needs like mess menu, notices, and stu
 
 ## 🏆 Achievements
 
-- 🛰️ **ISRO URSC Robotics Challenge – National Finalist**  
-  Designed and built autonomous Mars rover; selected among top 10 teams across India.
+- 🛰️ **ISRO URSC Robotics Challenge – Top 50 **  
+  Designed and built autonomous Mars rover; selected among top 50 teams across India.
 
 - ☁️ **AWS Certified Cloud Practitioner**  
   Verified foundational knowledge of cloud infrastructure, billing, and security.
