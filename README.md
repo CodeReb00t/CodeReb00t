@@ -47,6 +47,27 @@ React Native app to digitize daily campus needs like mess menu, notices, and stu
   Regular problem solver with high rankings in contests and company-specific challenges.
 
 ---
+## 🚀 My Projects & Highlights
+
+![GitHub stars](https://img.shields.io/github/stars/CodeReb00t/dbackend?style=social)
+![GitHub forks](https://img.shields.io/github/forks/CodeReb00t/dbackend?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/CodeReb00t/dbackend)
+
+![npm](https://img.shields.io/npm/dw/dbackend)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/dbackend)
+[![dbackend on npm](https://img.shields.io/npm/v/dbackend?color=brightgreen)](https://www.npmjs.com/package/dbackend)
+
+---
+
+### 🧠 LeetCode Progress
+
+[![LeetCode user CodeReb00t](https://leetcard.jacoblin.cool/CodeReb00t?theme=dark&font=baloo)](https://leetcode.com/CodeReb00t)
+
+---
+
+### ☁️ Certifications
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)
 
 ## 🛠️ Tech Stack
 
